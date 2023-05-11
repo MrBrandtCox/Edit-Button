@@ -46,7 +46,7 @@ _Edit-Button_ is a text editor that runs in the browser with the capability of f
 [](/Users/brandtcox/Desktop/Edit-Button/Develop/client/src/images/editbutton3.png)
 
 ## `Deployed Application`
-[Edit-Button](https://mrbrandtcox.github.io/Edit-Button/)
+[Edit-Button]()
 ## `License`
 [MIT](https://github.com/MrBrandtCox/Edit-Button/blob/main/LICENSE)
 
