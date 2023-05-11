@@ -41,11 +41,13 @@ _Edit-Button_ is a text editor that runs in the browser with the capability of f
 </br></br>
 
 ## `Mock-up`
-[Edit-Button Mock-up]()
-
+[Edit-Button Mock-up](client/src/images/editbutton1.png)
+[Edit-Button Mock-up 2](client/src/images/editbutton2.png)
+[Edit-Button Mock-up 3](client/src/images/editbutton3.png)
 
 ## `Deployed Application`
-[Edit-Button]()
+[Edit Button on Heroku](https://edit-button.herokuapp.com/)
+
 ## `License`
 [MIT](https://github.com/MrBrandtCox/Edit-Button/blob/main/LICENSE)
 
