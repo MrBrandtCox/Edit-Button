@@ -41,9 +41,8 @@ _Edit-Button_ is a text editor that runs in the browser with the capability of f
 </br></br>
 
 ## `Mock-up`
-[Edit-Button Mock-up](/Users/brandtcox/Desktop/Edit-Button/Develop/client/src/images/editbutton1.png)
-[](/Users/brandtcox/Desktop/Edit-Button/Develop/client/src/images/editbutton2.png)
-[](/Users/brandtcox/Desktop/Edit-Button/Develop/client/src/images/editbutton3.png)
+[Edit-Button Mock-up]()
+
 
 ## `Deployed Application`
 [Edit-Button]()
